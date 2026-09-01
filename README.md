@@ -1,13 +1,14 @@
 # DevOps Linux Automation Lab
 
-Bu repoda DevOps öğrenirken yaptığım Linux, networking, troubleshooting ve automation çalışmalarını tutuyorum.
+A hands-on lab repository documenting my practical work with Linux, networking, troubleshooting, and automation while learning DevOps.
 
-İlk çalışmalarda Docker üzerinde Ubuntu kullanarak process yönetimi ve temel container networking konularını uyguladım.
+The labs are performed primarily in Ubuntu environments running with Docker and focus on understanding system behavior through practical scenarios rather than only learning commands.
 
-## İçerik
+## Contents
 
 - Process Management
 - Networking
-- System Services
+- Users, Groups and Permissions
 - Troubleshooting
+- System Services
 - Bash Automation
